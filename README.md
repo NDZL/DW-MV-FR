@@ -1,5 +1,9 @@
 ## DATAWEDGE, MODEL-VIEW, FRAGMENTS
 
+### REFERENCES
+- https://developer.android.com/guide/components/activities/activity-lifecycle
+- https://developer.android.com/guide/fragments/lifecycle 
+
 ### LIFECYCLE EVENTS
 
 **LIFECYCLE
